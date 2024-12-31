@@ -1,6 +1,7 @@
 # Hello Everyone 👋
 <div align="center">
-  <img src="https://i.gifer.com/RRsS.gif" alt="Loading Animation" style="width: 300px; height: auto;">
+<!--   <img src="https://i.gifer.com/RRsS.gif" alt="Loading Animation" style="width: 300px; height: auto;"> -->
+  <img src="https://i.gifer.com/88kM.gif" alt="Loading Animation" style="width: 300px; height: auto;">
 </div>
 <div align="center">
   <h1 style="color: green; font-size: 2.5em;">
