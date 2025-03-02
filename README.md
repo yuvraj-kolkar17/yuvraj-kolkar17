@@ -35,6 +35,11 @@
 
 ---
 
+## 🚀 **About Me**
+
+Learner......
+<p> Quotes : "Quick commits, lasting impact."</p>
+
 ## 🌐 **Website Profile Count**
 
 <div align="center">
@@ -46,6 +51,3 @@
 
 
 
-## 🚀 **About Me**
-
-Learner......
