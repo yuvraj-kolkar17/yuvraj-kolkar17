@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Yuvraj;" alt="Typing SVG" />
   </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=&fontSize=0" />
 </h1>
 
 <h3 align="center" style="color: #00BFFF; text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF, 0 0 20px #00BFFF;">
@@ -9,49 +10,40 @@
 </h3>
 
 <p align="center">
- <img src="https://profile-counter.glitch.me/yuvraj-kolkar17/count.svg?start=256" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=yuvraj-kolkar17&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" alt="Profile views" />
 </p>
+
 
 ---
 
 ### 🛠️ Languages and Tools:
 
-<p align="center">
-  <!-- C++ -->
-  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-    <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-
-</p>
-
+<table align="center" style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th><img src="https://img.icons8.com/fluency/24/code.png"/> Languages</th>
+    <th><img src="https://img.icons8.com/fluency/24/computer.png"/> Frameworks & Tools</th>
+    <th><img src="https://img.icons8.com/fluency/24/test-tube.png"/> Testing & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/E2E_Testing-00BFFF?style=for-the-badge&logo=cypress&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
