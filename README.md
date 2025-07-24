@@ -1,9 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Yuvraj;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+👋,+I'm+Yuvraj;Open+Source+Contributor;Web+Developer" alt="Typing SVG" />
   </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=&fontSize=0" />
 </h1>
+
 
 <h3 align="center" style="color: #00BFFF; text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF, 0 0 20px #00BFFF;">
   🔥 "Versatility is the key to survival; mastery is the key to excellence."
