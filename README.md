@@ -65,21 +65,12 @@
 ---
 
 ### 📚 About Me:
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m currently learning **Machin Learning & LLM Models**.
 - 📫 How to reach me: **2024bcs517@sggs.ac.in**.
 - ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuvraj-kolkar17&show_icons=true&theme=algolia&include_all_commits=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-kolkar17&theme=algolia" /> -->
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-kolkar17&show_icons=true&theme=radical&layout=compact" alt="yuvraj-kolkar17" />
-</p>
 
 
 
