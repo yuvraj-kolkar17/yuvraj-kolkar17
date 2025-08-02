@@ -10,9 +10,6 @@
   🔥 "Versatility is the key to survival; mastery is the key to excellence."
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvraj-kolkar17&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" alt="Profile views" />
-</p>
 
 
 ---
