@@ -66,14 +66,9 @@
 - 📫 How to reach me: **2024bcs517@sggs.ac.in**.
 - ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
 
----
 
 
 
 
 ---
 
-### 🎨 Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-kolkar17&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
