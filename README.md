@@ -63,7 +63,7 @@
 
 ### 📚 About Me:
 - 🌱 I’m currently learning **Machin Learning & LLM Models**.
-- 📫 How to reach me: **2024bcs517@sggs.ac.in**.
+- 📫 How to reach me: **kolkaryuvraj2@gmail.com**.
 - ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
 
 
