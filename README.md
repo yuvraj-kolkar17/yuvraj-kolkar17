@@ -62,7 +62,7 @@
 ---
 
 ### 📚 About Me:
-- 🌱 I’m currently learning **Machin Learning & LLM Models**.
+- 🌱 I’m currently learning **Machine Learning & LLM Models**.
 - 📫 How to reach me: **kolkaryuvraj2@gmail.com**.
 - ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
 
