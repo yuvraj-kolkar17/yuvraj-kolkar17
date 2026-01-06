@@ -1,69 +1,41 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+👋,+I'm+Yuvraj;Open+Source+Contributor;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+👋,+I'm+Yuvraj;Open+Source+Developer;Building+in+Public" alt="Typing SVG" />
   </a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&fontSize=0" />
 </h1>
 
-
-<h3 align="center" style="color: #00BFFF; text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF, 0 0 20px #00BFFF;">
-  🔥 "Versatility is the key to survival; mastery is the key to excellence."
+<h3 align="center" style="color:#00BFFF; text-shadow:0 0 6px #00BFFF;">
+  🚀 Versatility builds survival. Consistency builds mastery.
 </h3>
 
+---
 
+### 👨‍💻 Developer Profile
+
+- focused on **clean code and maintainability**
+- Interested in **scalable systems, developer tooling, and frontend quality**
+- Believe in **learning by building and improving existing systems**
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<table align="center" style="width:100%; border-collapse: collapse;">
-  <tr>
-    <th><img src="https://img.icons8.com/fluency/24/code.png"/> Languages</th>
-    <th><img src="https://img.icons8.com/fluency/24/computer.png"/> Frameworks & Tools</th>
-    <th><img src="https://img.icons8.com/fluency/24/test-tube.png"/> Testing & DevOps</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/E2E_Testing-00BFFF?style=for-the-badge&logo=cypress&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
+### 🔍 What I Work On
+- Refactoring for **clarity and maintainability**
+- Fixing bugs with **root-cause analysis**
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuvraj-patil-39a36b221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/yuvrajj_patil/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/yuvraj-kolkar-39a36b221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/kolkarybkiz/" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-%2318B915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2318B915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-### 📚 About Me:
-- 🌱 I’m currently learning **Machine Learning & LLM Models**.
-- 📫 How to reach me: **kolkaryuvraj2@gmail.com**.
 - ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
 
 
