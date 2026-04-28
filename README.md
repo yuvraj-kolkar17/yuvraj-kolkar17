@@ -30,10 +30,7 @@
   <a href="https://www.linkedin.com/in/yuvraj-kolkar-39a36b221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/kolkarybkiz/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2318B915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 - ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
