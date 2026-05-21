@@ -33,5 +33,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvraj-kolkar17&label=Visitors&color=blueviolet&style=for-the-badge&base=1000" />
+</p>
 
 
+![snake gif](https://raw.githubusercontent.com/yuvraj-kolkar17/yuvraj-kolkar17/output/github-contribution-grid-snake-dark.svg)
