@@ -33,9 +33,5 @@
 
 
 ---
-- ⚡ Fun fact: **🌕 "The Moon didn’t change, but perspectives about it did."**
 
----
-## 🌆 My GitHub City
 
-![GitCity](https://gitcity.natrajx.in/api/city?username=yuvraj-kolkar17)
